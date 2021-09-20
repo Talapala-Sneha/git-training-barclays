@@ -1,6 +1,8 @@
 package.com.Sneha;
 class Hello{
-public void hi(){}
+public void hi(){
+System.out.print("From Master branch");
+}
 
 /**Author:Sneha*/
 
