@@ -1,2 +1,4 @@
 package.com.Sneha;
-class Hello{}
+class Hello{
+public void hi(){}
+}
