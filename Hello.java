@@ -7,4 +7,5 @@ System.out.print("From Login branch");
 /**Author:Sneha*/
 
 public void login(){}
+public void methodToCheckPullRequest(){}
 }
